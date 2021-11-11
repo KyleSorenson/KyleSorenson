@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KyleSorenson
-- 👀 I’m a video editor and graphic designer that is in the processes of learning to code well enough to become a paid software engineer. 
+- 👀 I’m a video editor and graphic designer that is in the processes of learning to code well enough to become a paid software engineer, most likely in front end development.
 - 🌱 I’m currently learning Javascript, Bootstrap, and React
